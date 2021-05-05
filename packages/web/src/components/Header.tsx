@@ -116,7 +116,7 @@ export const ChakraUIHeader = () => {
     </VStack>
   );
   return (
-    <Box pos="relative">
+    <Box pos="relative" margin="0">
       <chakra.header
         ref={ref}
         shadow={y > height ? "sm" : undefined}
