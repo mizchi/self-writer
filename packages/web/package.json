@@ -13,7 +13,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@chakra-ui/react": "^1.6.0",
     "@choc-ui/logo": "^1.0.0",
